@@ -1,6 +1,6 @@
 /**
  * Do not edit directly
- * Generated on Wed, 21 Apr 2021 09:51:15 GMT
+ * Generated on Wed, 21 Apr 2021 12:28:07 GMT
  */
 
 export const Sizes32 = 32.72; // 32.72px spacer component
@@ -125,45 +125,13 @@ export const MotionPushEasingFunctionX2 = 0.699999988079071;
 export const MotionPushEasingFunctionY1 = -0.05000000074505806;
 export const MotionPushEasingFunctionY2 = -0.5;
 export const MotionPushDirection = "left";
-export const ColorsMultipleFills0 = "rgba(64, 255, 186, 1)";
-export const ColorsMultipleFills1 = "rgba(0, 0, 0, 0.1)";
-export const ColorsSingleBlue = "rgba(4, 74, 255, 1)";
-export const ColorsSpecialCharacters😅 = "rgba(64, 223, 80, 1)"; // Emoji
-export const ColorsSpecialCharactersAnderung = "rgba(52, 86, 175, 1)";
-export const GradientMultiple0GradientType = "linear";
-export const GradientMultiple0Stops0Position = 0;
-export const GradientMultiple0Stops0Color = "rgba(255, 184, 0, 1)";
-export const GradientMultiple0Stops1Position = 1;
-export const GradientMultiple0Stops1Color = "rgba(255, 184, 0, 1)";
-export const GradientMultiple0Opacity = 1;
-export const GradientMultiple1GradientType = "radial";
-export const GradientMultiple1Stops0Position = 0;
-export const GradientMultiple1Stops0Color = "rgba(255, 255, 255, 1)";
-export const GradientMultiple1Stops1Position = 1;
-export const GradientMultiple1Stops1Color = "rgba(255, 255, 255, 1)";
-export const GradientMultiple1Opacity = 1;
-export const GradientMultiple2GradientType = "angular";
-export const GradientMultiple2Stops0Position = 0;
-export const GradientMultiple2Stops0Color = "rgba(207, 48, 48, 1)";
-export const GradientMultiple2Stops1Position = 1;
-export const GradientMultiple2Stops1Color = "rgba(255, 255, 255, 1)";
-export const GradientMultiple2Opacity = 1;
-export const GradientMultiple3GradientType = "diamond";
-export const GradientMultiple3Stops0Position = 0;
-export const GradientMultiple3Stops0Color = "rgba(74, 79, 204, 1)";
-export const GradientMultiple3Stops1Position = 1;
-export const GradientMultiple3Stops1Color = "rgba(255, 255, 255, 1)";
-export const GradientMultiple3Opacity = 1;
-export const GradientSingleWithMultipleColorStopsGradientType = "radial";
-export const GradientSingleWithMultipleColorStopsStops0Position = 0;
-export const GradientSingleWithMultipleColorStopsStops0Color = "rgba(255, 184, 0, 1)";
-export const GradientSingleWithMultipleColorStopsStops1Position = 0.34;
-export const GradientSingleWithMultipleColorStopsStops1Color = "rgba(255, 138, 0, 1)";
-export const GradientSingleWithMultipleColorStopsStops2Position = 0.65;
-export const GradientSingleWithMultipleColorStopsStops2Color = "rgba(255, 46, 0, 1)";
-export const GradientSingleWithMultipleColorStopsStops3Position = 1;
-export const GradientSingleWithMultipleColorStopsStops3Color = "rgba(255, 0, 0, 1)";
-export const GradientSingleWithMultipleColorStopsOpacity = 1;
+export const ColorsAquaAqua500 = "rgba(118, 194, 182, 1)";
+export const ColorsBlueBlue500 = "rgba(0, 117, 201, 1)";
+export const ColorsWealthGrey300 = "rgba(115, 123, 129, 1)";
+export const ColorsWealthGrey400 = "rgba(85, 94, 102, 1)";
+export const ColorsWealthGrey600 = "rgba(39, 50, 60, 1)";
+export const ColorsWealthGrey700 = "rgba(27, 38, 48, 1)";
+export const ColorsWealthGrey500Brand = "rgba(51, 62, 72, 1)";
 export const GridMultiple0Pattern = "columns";
 export const GridMultiple0SectionSize = 1;
 export const GridMultiple0GutterSize = 20;

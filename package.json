@@ -2,15 +2,22 @@
   "name": "@indiefin/hackday-style-dictionary",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "author": "Riaan <riaan@indiefin.com>",
+  "main": "./lib/index.js",
+  "module": "./src/index.js",
+  "directories": {
+    "lib": "./output",
+    "test": "__tests__"
+  },
   "scripts": {
-    "build": "style-dictionary build"
+    "clean": "rm -r output/**/*",
+    "build": "yarn clean && yarn build-styles",
+    "build-styles": "style-dictionary build"
   },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/riaanwest/style-dictionary.git"
   },
-  "author": "",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/riaanwest/style-dictionary/issues"
