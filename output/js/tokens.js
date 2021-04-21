@@ -1,6 +1,6 @@
 /**
  * Do not edit directly
- * Generated on Wed, 21 Apr 2021 13:38:25 GMT
+ * Generated on Wed, 21 Apr 2021 13:52:01 GMT
  */
 
 export const Sizes32 = 32.72; // 32.72px spacer component
@@ -88,13 +88,6 @@ export const RadiiMixedRadiiTopRight = 2;
 export const RadiiMixedRadiiBottomRight = 3.5;
 export const RadiiMixedRadiiBottomLeft = 0;
 export const RadiiMixedSmoothing = 0;
-export const RadiiTestRadius = 51;
-export const RadiiTestRadiusType = "single";
-export const RadiiTestRadiiTopLeft = 51;
-export const RadiiTestRadiiTopRight = 51;
-export const RadiiTestRadiiBottomRight = 51;
-export const RadiiTestRadiiBottomLeft = 51;
-export const RadiiTestSmoothing = 0;
 export const RadiiSameWithSmoothingRadius = 5;
 export const RadiiSameWithSmoothingRadiusType = "single";
 export const RadiiSameWithSmoothingRadiiTopLeft = 5;
@@ -185,7 +178,7 @@ export const GridSingleSectionSize = 11;
 export const GridSingleGutterSize = 20;
 export const GridSingleAlignment = "center";
 export const GridSingleCount = 5;
-export const TypeBodyBody1RegularFontSize = 18;
+export const TypeBodyBody1RegularFontSize = 16;
 export const TypeBodyBody1RegularTextDecoration = "none";
 export const TypeBodyBody1RegularFontFamily = "Roboto";
 export const TypeBodyBody1RegularFontWeight = 400;
