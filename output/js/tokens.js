@@ -1,6 +1,6 @@
 /**
  * Do not edit directly
- * Generated on Wed, 21 Apr 2021 13:26:16 GMT
+ * Generated on Wed, 21 Apr 2021 13:38:25 GMT
  */
 
 export const Sizes32 = 32.72; // 32.72px spacer component
@@ -88,6 +88,13 @@ export const RadiiMixedRadiiTopRight = 2;
 export const RadiiMixedRadiiBottomRight = 3.5;
 export const RadiiMixedRadiiBottomLeft = 0;
 export const RadiiMixedSmoothing = 0;
+export const RadiiTestRadius = 51;
+export const RadiiTestRadiusType = "single";
+export const RadiiTestRadiiTopLeft = 51;
+export const RadiiTestRadiiTopRight = 51;
+export const RadiiTestRadiiBottomRight = 51;
+export const RadiiTestRadiiBottomLeft = 51;
+export const RadiiTestSmoothing = 0;
 export const RadiiSameWithSmoothingRadius = 5;
 export const RadiiSameWithSmoothingRadiusType = "single";
 export const RadiiSameWithSmoothingRadiiTopLeft = 5;
@@ -178,18 +185,6 @@ export const GridSingleSectionSize = 11;
 export const GridSingleGutterSize = 20;
 export const GridSingleAlignment = "center";
 export const GridSingleCount = 5;
-export const TypeH3FontSize = 20;
-export const TypeH3TextDecoration = "none";
-export const TypeH3FontFamily = "Akzidenz-Grotesk Pro";
-export const TypeH3FontWeight = 700;
-export const TypeH3FontStyle = "normal";
-export const TypeH3FontStretch = "condensed";
-export const TypeH3FontStyleOld = "Bold Condensed";
-export const TypeH3LetterSpacing = 2;
-export const TypeH3LineHeight = 160;
-export const TypeH3ParagraphIndent = 5;
-export const TypeH3ParagraphSpacing = 8;
-export const TypeH3TextCase = "uppercase";
 export const TypeBodyBody1RegularFontSize = 18;
 export const TypeBodyBody1RegularTextDecoration = "none";
 export const TypeBodyBody1RegularFontFamily = "Roboto";

@@ -1,6 +1,6 @@
 
 // Do not edit directly
-// Generated on Wed, 21 Apr 2021 13:26:16 GMT
+// Generated on Wed, 21 Apr 2021 13:38:25 GMT
 
 $sizes-32: 32.72; // 32.72px spacer component
 $sizes-40: 40;
@@ -87,6 +87,13 @@ $radii-mixed-radii-top-right: 2;
 $radii-mixed-radii-bottom-right: 3.5;
 $radii-mixed-radii-bottom-left: 0;
 $radii-mixed-smoothing: 0;
+$radii-test-radius: 51;
+$radii-test-radius-type: single;
+$radii-test-radii-top-left: 51;
+$radii-test-radii-top-right: 51;
+$radii-test-radii-bottom-right: 51;
+$radii-test-radii-bottom-left: 51;
+$radii-test-smoothing: 0;
 $radii-same-with-smoothing-radius: 5;
 $radii-same-with-smoothing-radius-type: single;
 $radii-same-with-smoothing-radii-top-left: 5;
@@ -177,18 +184,6 @@ $grid-single-section-size: 11;
 $grid-single-gutter-size: 20;
 $grid-single-alignment: center;
 $grid-single-count: 5;
-$type-h-3-font-size: 20;
-$type-h-3-text-decoration: none;
-$type-h-3-font-family: Akzidenz-Grotesk Pro;
-$type-h-3-font-weight: 700;
-$type-h-3-font-style: normal;
-$type-h-3-font-stretch: condensed;
-$type-h-3-font-style-old: Bold Condensed;
-$type-h-3-letter-spacing: 2;
-$type-h-3-line-height: 160;
-$type-h-3-paragraph-indent: 5;
-$type-h-3-paragraph-spacing: 8;
-$type-h-3-text-case: uppercase;
 $type-body-body-1-regular-font-size: 18;
 $type-body-body-1-regular-text-decoration: none;
 $type-body-body-1-regular-font-family: Roboto;
