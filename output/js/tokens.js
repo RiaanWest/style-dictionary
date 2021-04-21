@@ -1,6 +1,6 @@
 /**
  * Do not edit directly
- * Generated on Wed, 21 Apr 2021 13:17:30 GMT
+ * Generated on Wed, 21 Apr 2021 13:26:16 GMT
  */
 
 export const Sizes32 = 32.72; // 32.72px spacer component
@@ -190,7 +190,7 @@ export const TypeH3LineHeight = 160;
 export const TypeH3ParagraphIndent = 5;
 export const TypeH3ParagraphSpacing = 8;
 export const TypeH3TextCase = "uppercase";
-export const TypeBodyBody1RegularFontSize = 16;
+export const TypeBodyBody1RegularFontSize = 18;
 export const TypeBodyBody1RegularTextDecoration = "none";
 export const TypeBodyBody1RegularFontFamily = "Roboto";
 export const TypeBodyBody1RegularFontWeight = 400;
