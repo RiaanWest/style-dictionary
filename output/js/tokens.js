@@ -1,6 +1,6 @@
 /**
  * Do not edit directly
- * Generated on Wed, 21 Apr 2021 13:09:31 GMT
+ * Generated on Wed, 21 Apr 2021 13:17:30 GMT
  */
 
 export const Sizes32 = 32.72; // 32.72px spacer component
@@ -202,6 +202,30 @@ export const TypeBodyBody1RegularLineHeight = 24;
 export const TypeBodyBody1RegularParagraphIndent = 0;
 export const TypeBodyBody1RegularParagraphSpacing = 0;
 export const TypeBodyBody1RegularTextCase = "none";
+export const TypeBodyBody2RegularFontSize = 14;
+export const TypeBodyBody2RegularTextDecoration = "none";
+export const TypeBodyBody2RegularFontFamily = "Roboto";
+export const TypeBodyBody2RegularFontWeight = 400;
+export const TypeBodyBody2RegularFontStyle = "normal";
+export const TypeBodyBody2RegularFontStretch = "normal";
+export const TypeBodyBody2RegularFontStyleOld = "Regular";
+export const TypeBodyBody2RegularLetterSpacing = 0;
+export const TypeBodyBody2RegularLineHeight = 20;
+export const TypeBodyBody2RegularParagraphIndent = 0;
+export const TypeBodyBody2RegularParagraphSpacing = 0;
+export const TypeBodyBody2RegularTextCase = "none";
+export const TypeBodyBody3RegularFontSize = 12;
+export const TypeBodyBody3RegularTextDecoration = "none";
+export const TypeBodyBody3RegularFontFamily = "Roboto";
+export const TypeBodyBody3RegularFontWeight = 400;
+export const TypeBodyBody3RegularFontStyle = "normal";
+export const TypeBodyBody3RegularFontStretch = "normal";
+export const TypeBodyBody3RegularFontStyleOld = "Regular";
+export const TypeBodyBody3RegularLetterSpacing = 0;
+export const TypeBodyBody3RegularLineHeight = 16;
+export const TypeBodyBody3RegularParagraphIndent = 0;
+export const TypeBodyBody3RegularParagraphSpacing = 0;
+export const TypeBodyBody3RegularTextCase = "none";
 export const EffectDropShadowSingleType = "dropShadow";
 export const EffectDropShadowSingleRadius = 4;
 export const EffectDropShadowSingleColor = "rgba(0, 0, 0, 0.25)";
