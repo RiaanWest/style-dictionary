@@ -1,6 +1,6 @@
 /**
  * Do not edit directly
- * Generated on Wed, 21 Apr 2021 13:52:01 GMT
+ * Generated on Wed, 21 Apr 2021 13:54:42 GMT
  */
 
 export const Sizes32 = 32.72; // 32.72px spacer component
@@ -178,7 +178,7 @@ export const GridSingleSectionSize = 11;
 export const GridSingleGutterSize = 20;
 export const GridSingleAlignment = "center";
 export const GridSingleCount = 5;
-export const TypeBodyBody1RegularFontSize = 16;
+export const TypeBodyBody1RegularFontSize = 18;
 export const TypeBodyBody1RegularTextDecoration = "none";
 export const TypeBodyBody1RegularFontFamily = "Roboto";
 export const TypeBodyBody1RegularFontWeight = 400;
