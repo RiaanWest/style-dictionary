@@ -1,6 +1,6 @@
 /**
  * Do not edit directly
- * Generated on Wed, 21 Apr 2021 14:00:27 GMT
+ * Generated on Wed, 21 Apr 2021 14:02:49 GMT
  */
 
 export const Sizes32 = 32.72; // 32.72px spacer component
